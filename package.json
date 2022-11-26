@@ -1,0 +1,20 @@
+{
+  "name": "untitled1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node indexDoneParallel.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.7.2",
+    "objects-to-csv": "^1.3.6",
+    "parser": "^0.1.4",
+    "puppeteer": "^17.1.3",
+    "puppeteer-cluster": "^0.23.0"
+  }
+}
